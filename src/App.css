@@ -1,0 +1,31 @@
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+  position: relative;
+}
+.button{
+  padding: 10px 30px;
+  font-size: 25px;
+  background-color: transparent;
+  border: none;
+}
+
+.btn{
+  position: absolute;
+  top: 43%;
+}
+/*button:hover{
+
+}*/
+.button1{
+  right: 87%;
+  border: none;
+  background-color: transparent;
+}
+.button2{
+  left: 87%;
+  border: none;
+  background-color: transparent;
+}
